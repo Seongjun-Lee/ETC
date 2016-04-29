@@ -6,4 +6,6 @@ void main(void)
 	printf("And\n");
 	printf("GOOD BYE WORLD\n\n");
 	//주석 추가
+
+	printf("what's wrong\n\n");
 }
