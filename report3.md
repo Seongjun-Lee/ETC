@@ -28,7 +28,8 @@
 
 ####서버
 
-|CPU      |INTEL E5-2676     |  
+|CPU      |INTEL E5-2676     |
+|---------|------------------|
 |MEMORY   |512GB             |  
 |STORAGE  |SSD 1TB + HDD 20TB|  
 |OS       |WINDOWS SERVER 9.0|  
