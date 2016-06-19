@@ -4,6 +4,7 @@
 
 ####프로그램 서버에 저장되어 있는 정보 클래스
 
+
 ![coding 2](http://postfiles8.naver.net/20160619_55/friend2281_1466342486964f1lAp_JPEG/eee2.jpg?type=w2 "Kwan") 
 
 ####교통카드 서버에 저장되어 있는 정보 클래스
@@ -32,10 +33,17 @@
 |---------|------------------|
 |CPU      |INTEL E5-2676     |
 |MEMORY   |512GB             |
-
 |STORAGE  |SSD 1TB + HDD 20TB|
-
 |OS       |WINDOWS SERVER 9.0|
+
+####클라이언트
+
+|구성요소 |권장사양          |
+|---------|------------------|
+|CPU      |INTEL E3-1231 V3  |
+|MEMORY   |16GB             |
+|STORAGE  |SSD 200GB + HDD 2TB|
+|OS       |WINDOWS 10|
 
 
 
