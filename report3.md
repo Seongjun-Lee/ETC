@@ -1,10 +1,19 @@
-#5.핵심 구성 요소 설계 (2) #
+#5.핵심 구성 요소 상세 설계 (1) #
+
+####교통카드에 저장되어 있는 사용자의 정보 클래스
+![coding 1](http://postfiles7.naver.net/20160619_70/friend2281_1466345159156b9GTJ_JPEG/%A4%A1%A4%A1%A4%A1%A4%A1%A4%A1.jpg?type=w2 "Kwan") 
+
+####프로그램 서버에 저장되어있는 위치 분류 정보 클래스
+![coding 2](http://postfiles3.naver.net/20160619_178/friend2281_1466345162219MwNpw_JPEG/%A4%A1%A4%A1%A4%A1%A4%A1%A4%A1%A4%A1%A4%A1%A4%A1%A4%A1.jpg?type=w2 "Kwan") 
+
+
+#5.핵심 구성 요소 상세 설계 (2) #
 
 ####프로그램 서버에 저장되어 있는 정보 클래스
-![coding 1](http://postfiles1.naver.net/20160619_96/friend2281_14663424865986eKae_JPEG/eee.jpg?type=w2 "Kwan") 
+![coding 3](http://postfiles1.naver.net/20160619_96/friend2281_14663424865986eKae_JPEG/eee.jpg?type=w2 "Kwan") 
 
 ####교통카드 서버에 저장되어 있는 정보 클래스
-![coding 2](http://postfiles8.naver.net/20160619_55/friend2281_1466342486964f1lAp_JPEG/eee2.jpg?type=w2 "Kwan") 
+![coding 3](http://postfiles8.naver.net/20160619_55/friend2281_1466342486964f1lAp_JPEG/eee2.jpg?type=w2 "Kwan") 
 
 
 
