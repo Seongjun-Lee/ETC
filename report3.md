@@ -7,6 +7,7 @@
 ![coding 2](http://postfiles8.naver.net/20160619_55/friend2281_1466342486964f1lAp_JPEG/eee2.jpg?type=w2 "Kwan") 
 
 
+
 #6-1. 구현에 필요한 기술#
 
 >**1.NFC**
@@ -20,6 +21,7 @@
 >**3.정보분류기술**
 
 > - 서버로 전송되는 정보들을 요구에 알맞게 분류하여 데이터베이스에 저장할 수 있는 기술이 필요하다
+
 
 
 #6-2. 개발환경#
@@ -41,6 +43,15 @@
 |MEMORY   |16GB             |
 |STORAGE  |SSD 200GB + HDD 2TB|
 |OS       |WINDOWS 10|
+
+####안드로이드
+
+|구성요소 |권장사양             |
+|---------|------------------   |
+|CPU      |EXYNOS 7580          |
+|MEMORY   |2GB                  |
+|STORAGE  |16GB                 |
+|OS       |ANDROID 4.1 JellyBean|
 
 
 
